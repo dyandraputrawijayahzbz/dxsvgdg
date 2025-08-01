@@ -1,4 +1,4 @@
-name: devapp
+name: devlopapp
 on: 
   push:
     branches: [ "main" ]
